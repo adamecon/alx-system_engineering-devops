@@ -1,3 +1,3 @@
 #!/bin/bash
-rsync -av --update --exclude='*' --include='*.html' ./ ../
+cp index.html alx-system_engineering-devops
 
