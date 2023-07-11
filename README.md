@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Readme for shell permission scripts
